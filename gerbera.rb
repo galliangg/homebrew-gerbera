@@ -11,7 +11,7 @@ class Gerbera < Formula
   depends_on "libexif"
   depends_on "libmagic"
   depends_on "libmatroska"
-  depends_on "libupnp"
+  depends_on "galliangg/gerbera/libupnp"
   depends_on "lzlib"
   depends_on "ossp-uuid"
   depends_on "taglib"
